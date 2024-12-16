@@ -1,0 +1,18 @@
+cyclicAplhabets
+ -distanceBtwnTwoChars
+ -kthElement
+
+searchPatterns
+    -kmp
+
+sorting
+    -mergeSort
+
+subsequence
+    -print all possible sub sequence
+
+
+upcoming
+    -lcm
+    -gcd or hcf
+
